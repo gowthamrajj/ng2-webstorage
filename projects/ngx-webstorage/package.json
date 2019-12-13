@@ -1,13 +1,13 @@
 {
-	"name": "ngx-webstorage",
-	"version": "4.0.1",
+	"name": "@grj/ngx-webstorage",
+	"version": "4.0.2",
 	"peerDependencies": {
 		"@angular/common": "^8.0.0",
 		"@angular/core": "^8.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/PillowPillow/ng2-webstorage.git"
+		"url": "git+https://github.com/gowthamrajj/ng2-webstorage.git"
 	},
 	"keywords": [
 		"typescript",
@@ -22,5 +22,6 @@
 	"bugs": {
 		"url": "https://github.com/PillowPillow/ng2-webstorage/issues"
 	},
-	"homepage": "https://github.com/PillowPillow/ng2-webstorage#readme"
+	"homepage": "https://github.com/PillowPillow/ng2-webstorage#readme",
+	"description": "This library provides an easy to use service to manage the web storages (local and session) from your Angular application.\r It provides also two decorators to synchronize the component attributes and the web storages."
 }
